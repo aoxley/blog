@@ -1,11 +1,11 @@
 ---
-title: "Right Sidebar"
-description: "Sidebar on the right, content on the left."
+title: "Home"
+description: "A piece of the Internet to call my own."
 menu: main
 weight: 60
 image: images/banner.jpg
-image_alt: "Hello!"
-tags: ["examples", "content", "sidebar"]
+image_alt: "A random image that really means nothing"
+tags: ["blog", "cybersecurity", "thoughts"]
 sidebar_right: sidebar1
 ---
 Phasellus quam turpis, feugiat sit amet ornare in, hendrerit in lectus.
